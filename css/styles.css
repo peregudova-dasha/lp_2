@@ -104,7 +104,7 @@ font-weight: 300;
 .box3 {
  height: 790px;
 background: #70bfff;
-background-image: url("img/img2.png"); 
+background-image: url("img/img3.png"); 
 background-repeat: no-repeat;
 background-position: 90% 40%;
 margin: auto;
@@ -231,7 +231,7 @@ text-decoration: none;
 .box5 {
 width: 100%;
 min-height: 500px;
-background: url("http://fs213.www.ex.ua/show/835599818672/225958956/225958956.png?800") no-repeat;
+background: url("img/bg5.png") no-repeat;
 background-size: cover;
 margin: auto;
 }
@@ -406,7 +406,7 @@ text-align: left;
 .box7 {
 width: 100%;
 height: 955px;
-background: url("http://fs213.www.ex.ua/show/835599818672/225958963/225958963.png?800") no-repeat;
+background: url("img/bg7.png") no-repeat;
 background-size: cover;
 margin: auto;
 }
