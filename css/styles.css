@@ -11,7 +11,7 @@ margin-left: auto;
 .box1 {
 width: 100%;
 height: 1000px;
-background: url("http://fs213.www.ex.ua/show/835599818672/225958949/225958949.png?800") no-repeat 50% 50%;
+background: url("img/bg1.png") no-repeat 50% 50%;
 background-size: cover;
 }
 
@@ -104,7 +104,7 @@ font-weight: 300;
 .box3 {
  height: 790px;
 background: #70bfff;
-background-image: url("http://fs213.www.ex.ua/show/835599818672/225959088/225959088.png?1600"); 
+background-image: url("img/img2.png"); 
 background-repeat: no-repeat;
 background-position: 90% 40%;
 margin: auto;
@@ -166,19 +166,19 @@ left: 75%;
 }
 
 .box3 .service1 .icon {
-background: url("http://fs213.www.ex.ua/show/835599818672/225958980/225958980.png?1600") no-repeat 50% 50%;
+background: url("img/icon1.png") no-repeat 50% 50%;
 }
 
 .box3 .service2 .icon {
-background: url("http://fs213.www.ex.ua/show/835599818672/225959074/225959074.png?1600") no-repeat 50% 50%;
+background: url("img/icon2.png") no-repeat 50% 50%;
 }
 
 .box3 .service3 .icon {
-background: url("http://fs213.www.ex.ua/show/835599818672/225959077/225959077.png?1600") no-repeat 50% 50%;
+background: url("img/icon3.png") no-repeat 50% 50%;
 }
 
 .box3 .service4 .icon {
-background: url("http://fs213.www.ex.ua/show/835599818672/225959081/225959081.png?1600") no-repeat 50% 50%;
+background: url("img/icon4.png") no-repeat 50% 50%;
 }
 
 .box4 {
